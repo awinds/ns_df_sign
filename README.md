@@ -89,7 +89,7 @@ curl http://你的服务器IP:3000/health
 ### 定时任务
 
 ```bash
-30 8 * * * task ns_df_sign/auto-sign.py
+30 8 * * * task awinds_ns_df_sign/auto-sign.py
 ```
 
 ```bash
