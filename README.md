@@ -1,5 +1,4 @@
-# ns_df_sign
-<<<<<<< HEAD
+# NodeSeek和DeepFlood的自动签到脚本
 
 NodeSeek和DeepFlood的自动签到青龙脚本，签到模式默认为随机签到，帮助用户轻松获取论坛每日"鸡腿"奖励
 
