@@ -1,0 +1,5 @@
+# task.yml
+- name: NS_DF自动签到
+  cron: "30 8 * * *"
+  script: auto-sign.py
+  cmd: task

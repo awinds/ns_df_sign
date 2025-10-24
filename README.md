@@ -7,8 +7,8 @@ NodeSeek和DeepFlood的自动签到青龙脚本，签到模式默认为随机签
 
 依赖管理 - Python3 - 创建依赖
 + curl_cffi
-+ python-dotenv
 + urllib3
++ python-dotenv
 
 
 ## 特性
